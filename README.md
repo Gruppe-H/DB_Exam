@@ -29,11 +29,13 @@ Download all the files from the "neo4j" folder: [](https://github.com/Gruppe-H/D
 **Click here and open config folder:**
 
 <img width="489" alt="Skærmbillede 2024-06-01 kl  15 28 31" src="https://github.com/Gruppe-H/DB_Exam/assets/70536109/9eb0f164-d478-476f-b67a-b83f866b59d1">
+
 * Input the apoc.conf file in the conf folder.
 
 **Click then the import folder:**
 
 <img width="490" alt="image" src="https://github.com/Gruppe-H/DB_Exam/assets/70536109/4e00b4e9-8bcd-4cf1-91f4-124b1eebe6ed">
+
 * And add the *all.cypher* file in here.
 
 **Open settings and add this line:**
@@ -41,10 +43,13 @@ Download all the files from the "neo4j" folder: [](https://github.com/Gruppe-H/D
 <img width="622" alt="image" src="https://github.com/Gruppe-H/DB_Exam/assets/70536109/86b08d63-f99b-439a-807c-c805bc5d3b5c">
 
 * first press *command + F* on mac or *control + F* on windoews to search for the line.
+
 ``` dbms.security.procedures.unrestricted=jwt.security.*,apoc.* ```
 
 **Turn the Graph DBMS on and go to the browser and write this command:**
+
 ```CALL apoc.cypher.runFile("file:///all.cypher")```
+
 * It will take a while for the file to be done (upto 5-6 hours)
   
 
