@@ -16,7 +16,7 @@ Click the "download raw file" button to download.
 
 The database is called *DB_exam* and the password should fit the one in the frontend .env file.
 
-Download all the files from the "neo4j" folder: [](https://github.com/Gruppe-H/DB_Exam/blob/main/DB_export/neo4j/)
+Download all the files from the "neo4j" folder: [Files for Neo4j setup](https://github.com/Gruppe-H/DB_Exam/blob/main/DB_export/neo4j/)
 
 **Click on Graph DSBM and click plugins and install APOC:** 
 
@@ -57,4 +57,4 @@ Download all the files from the "neo4j" folder: [](https://github.com/Gruppe-H/D
 
 Create a database called "db_exam" and add a collection called reviews and extra_titles:
 
-Review and extra_titles JSON files : [](https://drive.google.com/drive/folders/13buYeqK6Vr_sVb3T8aQ6wGuJknSOw5gL?usp=sharing)
+Review and extra_titles JSON files : [Google docs link](https://drive.google.com/drive/folders/13buYeqK6Vr_sVb3T8aQ6wGuJknSOw5gL?usp=sharing)
