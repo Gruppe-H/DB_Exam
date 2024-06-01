@@ -42,7 +42,7 @@ Download all the files from the "neo4j" folder: [Files for Neo4j setup](https://
 
 <img width="622" alt="image" src="https://github.com/Gruppe-H/DB_Exam/assets/70536109/86b08d63-f99b-439a-807c-c805bc5d3b5c">
 
-* first press *command + F* on mac or *control + F* on windoews to search for the line.
+* first press *command + F* on mac or *control + F* on windows to search for the line first and if it does'nt exist input this from below:
 
 ``` dbms.security.procedures.unrestricted=jwt.security.*,apoc.* ```
 
