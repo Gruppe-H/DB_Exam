@@ -9,3 +9,4 @@ Since the data we're working with is too large to put on GitHub, replicating our
 ## Setup MSSQL database
 
 Download this file from DB_export folder: [db_exam-final_mssql.bacpac](https://github.com/Gruppe-H/DB_Exam/blob/main/DB_export/db_exam-final_mssql.bacpac)
+click the "download raw file" button to download.
